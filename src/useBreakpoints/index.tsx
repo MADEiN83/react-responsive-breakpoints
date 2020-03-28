@@ -26,19 +26,11 @@ const useBreakpoints = (): IUseBreakpointArgs => {
 
   useEffect(() => {
     const tempCurrentBreakpoint = getRelatedBreakpoint({ viewportWidth });
-    if (tempCurrentBreakpoint.label === currentBreakpoint.label) {
-      return;
-    }
-
     setCurrentBreakpoint(tempCurrentBreakpoint);
   }, [viewportWidth]);
 
   const onResize = () => {
     const newViewportWidth = getViewportWidth();
-    if (viewportWidth === newViewportWidth) {
-      return;
-    }
-
     setViewportWidth(newViewportWidth);
   };
 

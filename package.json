@@ -1,18 +1,33 @@
 {
-  "name": "react-responsive-breakpoints",
+  "name": "react-responsive-hooks",
   "version": "1.0.0",
   "main": "dist/index.js",
-  "description": "Create a React library with TypeScript",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/MADEiN83/react-responsive-breakpoints"
-  },
-  "private": true,
-  "author": "Anthony DI STEFANO",
-  "license": "MIT",
   "scripts": {
     "build": "tsc -p ./tsconfig.build.json"
   },
+  "description": "Create a React library with TypeScript",
+  "author": "Anthony DI STEFANO",
+  "homepage": "https://github.com/MADEiN83/react-responsive-hooks",
+  "bugs": {
+    "url": "https://github.com/MADEiN83/react-responsive-hooks/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MADEiN83/react-responsive-hooks"
+  },
+  "license": "ISC",
+  "keywords": [
+    "react",
+    "responsive",
+    "breakpoint",
+    "css",
+    "design",
+    "mobile"
+  ],
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "devDependencies": {
     "@types/react": "^16.9.26",
     "react": "^16.13.1",

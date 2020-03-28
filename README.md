@@ -1,1 +1,1 @@
-# react-responsive-breakpoints
+# react-responsive-hooks
