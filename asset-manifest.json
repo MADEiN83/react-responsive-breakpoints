@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-responsive-hooks-demo/static/css/main.cdc86db6.chunk.css",
+    "main.js": "/react-responsive-hooks-demo/static/js/main.62e30891.chunk.js",
+    "main.js.map": "/react-responsive-hooks-demo/static/js/main.62e30891.chunk.js.map",
+    "runtime-main.js": "/react-responsive-hooks-demo/static/js/runtime-main.f411e867.js",
+    "runtime-main.js.map": "/react-responsive-hooks-demo/static/js/runtime-main.f411e867.js.map",
+    "static/js/2.e8b835b2.chunk.js": "/react-responsive-hooks-demo/static/js/2.e8b835b2.chunk.js",
+    "static/js/2.e8b835b2.chunk.js.map": "/react-responsive-hooks-demo/static/js/2.e8b835b2.chunk.js.map",
+    "index.html": "/react-responsive-hooks-demo/index.html",
+    "precache-manifest.3deedcdfe59c05a8930397e5091b426d.js": "/react-responsive-hooks-demo/precache-manifest.3deedcdfe59c05a8930397e5091b426d.js",
+    "service-worker.js": "/react-responsive-hooks-demo/service-worker.js",
+    "static/css/main.cdc86db6.chunk.css.map": "/react-responsive-hooks-demo/static/css/main.cdc86db6.chunk.css.map",
+    "static/js/2.e8b835b2.chunk.js.LICENSE.txt": "/react-responsive-hooks-demo/static/js/2.e8b835b2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-responsive-hooks-demo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f411e867.js",
+    "static/js/2.e8b835b2.chunk.js",
+    "static/css/main.cdc86db6.chunk.css",
+    "static/js/main.62e30891.chunk.js"
+  ]
+}
