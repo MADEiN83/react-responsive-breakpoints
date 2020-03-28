@@ -1,0 +1,25 @@
+{
+  "name": "react-breakpoints",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "description": "Boilerplate for TypeScript React component library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bdoss/typescript-react-library.git"
+  },
+  "private": true,
+  "author": "Anthony DI STEFANO",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc -p ./tsconfig.build.json"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.26",
+    "react": "^16.13.1",
+    "ts-node": "^3.0.4",
+    "typescript": "^2.3.4"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1"
+  }
+}
