@@ -1,2 +1,2 @@
-import Foo from "./Foo";
-export { Foo };
+import useBreakpoints from "./useBreakpoints";
+export { useBreakpoints };
