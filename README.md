@@ -2,6 +2,12 @@
 
 This package allows your component to conditionally display another component(s) according the current size of the screen.
 
+## installation
+
+```bash
+$ npm i react-responsive-hooks
+```
+
 ## importing library
 
 ```js
