@@ -1,4 +1,4 @@
-# react-responsive-hooks
+# react-responsive-hooks ![alt text](https://img.shields.io/npm/v/react-responsive-hooks) ![alt text](https://img.shields.io/github/repo-size/madein83/react-responsive-hooks) ![alt text](https://img.shields.io/npm/dw/react-responsive-hooks)
 
 This package allows your component to conditionally display another component(s) according the current size of the screen.
 
